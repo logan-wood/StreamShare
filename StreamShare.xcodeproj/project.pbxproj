@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		021521002C53852A00E06A8C /* StreamShareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021520FF2C53852A00E06A8C /* StreamShareApp.swift */; };
-		021521022C53852A00E06A8C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021521012C53852A00E06A8C /* ContentView.swift */; };
+		021521022C53852A00E06A8C /* LinkAccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021521012C53852A00E06A8C /* LinkAccountView.swift */; };
 		021521042C53852C00E06A8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 021521032C53852C00E06A8C /* Assets.xcassets */; };
 		021521072C53852C00E06A8C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 021521062C53852C00E06A8C /* Preview Assets.xcassets */; };
 		021521112C53852C00E06A8C /* StreamShareTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021521102C53852C00E06A8C /* StreamShareTests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		021520FC2C53852A00E06A8C /* StreamShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StreamShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		021520FF2C53852A00E06A8C /* StreamShareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamShareApp.swift; sourceTree = "<group>"; };
-		021521012C53852A00E06A8C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		021521012C53852A00E06A8C /* LinkAccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkAccountView.swift; sourceTree = "<group>"; };
 		021521032C53852C00E06A8C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		021521062C53852C00E06A8C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0215210C2C53852C00E06A8C /* StreamShareTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StreamShareTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,7 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				021520FF2C53852A00E06A8C /* StreamShareApp.swift */,
-				021521012C53852A00E06A8C /* ContentView.swift */,
+				021521012C53852A00E06A8C /* LinkAccountView.swift */,
 				021521032C53852C00E06A8C /* Assets.xcassets */,
 				021521052C53852C00E06A8C /* Preview Content */,
 			);
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				021521022C53852A00E06A8C /* ContentView.swift in Sources */,
+				021521022C53852A00E06A8C /* LinkAccountView.swift in Sources */,
 				021521002C53852A00E06A8C /* StreamShareApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
